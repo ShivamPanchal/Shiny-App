@@ -5,24 +5,25 @@ Coursera Course: Developing Data Products
 
 Assignment Submission Files
 
-ui.R
-server.R
-README.md
-Instructions
+*ui.R
+*server.R
+*README.md
 
-Load your RStudio
+#Instructions
 
-Set your working directory to YOURDIRECTORY using setwd("YOURDIRECTORY")
+-Load your RStudio
 
-Load the Shiny library using library(shiny)
+-Set your working directory to YOURDIRECTORY using setwd("YOURDIRECTORY")
 
-Run the application using runApp()
+-Load the Shiny library using library(shiny)
 
-You will see the application in a browser. Follow the instructions to use the application.
+-Run the application using runApp()
 
-Dependencies
+-You will see the application in a browser. Follow the instructions to use the application.
+
+# Dependencies
 
 Shiny library
 More Information
 
-The application is deployed on ShinyApps.io at https://shivam-panchal.shinyapps.io/Shiny_Project/.
+**The application is deployed on ShinyApps.io at https://shivam-panchal.shinyapps.io/Shiny_Project/.**
