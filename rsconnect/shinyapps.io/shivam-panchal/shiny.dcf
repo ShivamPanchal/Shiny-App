@@ -1,0 +1,11 @@
+name: shiny
+title: shiny
+account: shivam-panchal
+server: shinyapps.io
+appId: 153557
+bundleId: 693216
+url: https://shivam-panchal.shinyapps.io/shiny/
+when: 1485546958.64681
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
